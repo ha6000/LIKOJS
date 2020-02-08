@@ -13,6 +13,8 @@
 
 ---
 
+> This is a work in progress trying to port liko-12 to html.
+
 LIKO-12 is a fantasy computer that you can use to make, play and share tiny retro-looking games and programs. It comes
 with a default, fully customizable, DOS-like operating system installed, called DiskOS.
 
